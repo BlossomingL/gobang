@@ -1,10 +1,10 @@
 # gobang
 Gobang implemented by Java
 
-1.»·¾³¼°¿ª·¢¹¤¾ß
-Java + IDEA£¨Windows£©
+# 1.ç¯å¢ƒåŠå¼€å‘å·¥å…·
+Java + IDEAï¼ˆWindowsï¼‰
 
-2.ÔËĞĞ
-ÔËĞĞÈë¿ÚSelectMenu.java
+# 2.è¿è¡Œ
+è¿è¡Œå…¥å£SelectMenu.java
 
-3.ÔËĞĞ½ØÍ¼
+# 3.è¿è¡Œæˆªå›¾
