@@ -8,7 +8,11 @@ Java + IDEA（Windows）
 运行入口SelectMenu.java
 
 ## 运行截图
-![image](https://github.com/BlossomingL/gobang/blob/master/readmeImages/1.png)  
-![image](https://github.com/BlossomingL/gobang/blob/master/readmeImages/2.png)  
-![image](https://github.com/BlossomingL/gobang/blob/master/readmeImages/3.png)  
-![image](https://github.com/BlossomingL/gobang/blob/master/readmeImages/4.png)  
+界面一：  
+![alt](https://github.com/BlossomingL/gobang/blob/master/readmeImages/1.png)  
+界面二（难度选择）：
+![alt](https://github.com/BlossomingL/gobang/blob/master/readmeImages/2.png)  
+界面三（人机界面）：
+![alt](https://github.com/BlossomingL/gobang/blob/master/readmeImages/3.png)  
+界面四（人人界面）：
+![alt](https://github.com/BlossomingL/gobang/blob/master/readmeImages/4.png)  
