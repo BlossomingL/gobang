@@ -5,7 +5,7 @@ Gobang implemented by Java
 Java + IDEA（Windows）
 
 ## 运行
-运行入口SelectMenu.java
+运行入口src/View/SelectMenu.java
 
 ## 运行截图
 界面一：  
